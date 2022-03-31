@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+.photo{
+    max-width: 300px;
+}
+body {
+    background-color: rgb(86, 45, 163);
+}
